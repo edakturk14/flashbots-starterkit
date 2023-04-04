@@ -1,6 +1,6 @@
-# Scaffold-Eth 2
+# Flashbots Starter Kit w/Scaffold-Eth 2 
 
-⚠️ This project is currently under active development. Things might break. Feel free to check the open issues & create new ones.
+![Screen Shot 2023-04-04 at 16 16 27](https://user-images.githubusercontent.com/22100698/229803973-5728deb5-fa21-4dd7-8c8a-c2b41f4ba8e0.png)
 
 Scaffold-Eth 2 is an open-source toolkit for building decentralized applications (dapps) on the Ethereum blockchain. It's designed to make it easier for developers to create and deploy smart contracts and build user interfaces that interact with those contracts.
 
